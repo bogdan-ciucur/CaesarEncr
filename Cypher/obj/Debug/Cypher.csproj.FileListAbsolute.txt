@@ -1,0 +1,7 @@
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\Cypher\Cypher\bin\Debug\Cypher.exe
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\Cypher\Cypher\bin\Debug\Cypher.pdb
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\Cypher\Cypher\obj\Debug\Cypher.csproj.AssemblyReference.cache
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\Cypher\Cypher\obj\Debug\Cypher.csproj.SuggestedBindingRedirects.cache
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\Cypher\Cypher\obj\Debug\Cypher.csproj.CoreCompileInputs.cache
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\Cypher\Cypher\obj\Debug\Cypher.exe
+C:\Users\bogdan\Desktop\geometrieComputationala\SCHOOL-geometrie-computationala\Cypher\Cypher\obj\Debug\Cypher.pdb
